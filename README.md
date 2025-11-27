@@ -1,3 +1,7 @@
+# PLEASE NOTE
+
+I can't maintain this repository any longer since I don't own the hardware anymore. @barsk has taken over recently: https://github.com/barsk/G27_Pedals_and_Shifter/.
+
 # G27 Pedals and Shifter
 
 Arduino-based USB interface for Logitech G27 pedals and shifter:
